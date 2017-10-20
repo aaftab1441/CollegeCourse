@@ -1,0 +1,11 @@
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\bin\Debug\netcoreapp2.0\CollegeCourse.deps.json
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\bin\Debug\netcoreapp2.0\CollegeCourse.runtimeconfig.json
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\bin\Debug\netcoreapp2.0\CollegeCourse.runtimeconfig.dev.json
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\bin\Debug\netcoreapp2.0\CollegeCourse.dll
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\bin\Debug\netcoreapp2.0\CollegeCourse.pdb
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.csprojResolveAssemblyReference.cache
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.csproj.CoreCompileInputs.cache
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.AssemblyInfoInputs.cache
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.AssemblyInfo.cs
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.dll
+C:\Users\aftab\source\repos\CollegeCourse\CollegeCourse\obj\Debug\netcoreapp2.0\CollegeCourse.pdb
